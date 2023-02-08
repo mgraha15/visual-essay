@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="MA'S Visual Essay"
+       title="MA's Visual Essay"
        author="MA"
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/John_James_Audubon%2C_%22Wild_Turkey_Cock%2C_Hen_and_Young%22_2013_44v1.jpg/640px-John_James_Audubon%2C_%22Wild_Turkey_Cock%2C_Hen_and_Young%22_2013_44v1.jpg" 
        layout="vertical">
