@@ -14,11 +14,11 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# I Put a new url after manifest
+# Shallows
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
-       manifest="https://upload.wikimedia.org/wikipedia/commons/e/e0/John_James_Audubon_by_Jules_Lion_after_Frederick_Cruickshank%2C_1860%2C_lithograph_on_paper%2C_from_the_National_Portrait_Gallery_-_NPG-NPG_78_208.jpg">
+       url="https://mgraha15.github.io/visual-essay/images/Parallel_Alexxander_Dovelin.jpg">
 
 # Basic usage
 
