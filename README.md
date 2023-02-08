@@ -3,7 +3,7 @@
 <param ve-config 
        title="Mark Anthony's Visual Essay"
        author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/John_James_Audubon%2C_%22Wild_Turkey_Cock%2C_Hen_and_Young%22_2013_44v1.jpg/640px-John_James_Audubon%2C_%22Wild_Turkey_Cock%2C_Hen_and_Young%22_2013_44v1.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
