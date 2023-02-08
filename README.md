@@ -29,7 +29,7 @@ _James Audubon_ well this didnt work. the url i put in did not change anything .
        label="James Audubon" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e0/John_James_Audubon_by_Jules_Lion_after_Frederick_Cruickshank%2C_1860%2C_lithograph_on_paper%2C_from_the_National_Portrait_Gallery_-_NPG-NPG_78_208.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/e/e0/John_James_Audubon_by_Jules_Lion_after_Frederick_Cruickshank%2C_1860%2C_lithograph_on_paper%2C_from_the_National_Portrait_Gallery_-_NPG-NPG_78_208.jpg">
 
 ## Map
 
